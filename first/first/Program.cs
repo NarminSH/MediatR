@@ -1,25 +1,25 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //1st task
-//int[] nums = { 10, 20, 30, 40, 20, 30};
+int[] nums = { 10, 20, 30, 40, 20, 30 };
 
-//Dictionary<int, int> dict = new Dictionary<int, int>();
+Dictionary<int, int> dict = new Dictionary<int, int>();
 
-//var temp = new HashSet<Int32>();
+var temp = new HashSet<Int32>();
 
-//for (int i = 0; i < nums.Length; i++)
-//{
-//    if (temp.Contains(nums[i]))
-//    {
-//        Console.WriteLine(nums[i] + " is a duplicate");
-//    }
-//    else
-//    {
-//        temp.Add(nums[i]);
-//    }
-//}
+for (int i = 0; i < nums.Length; i++)
+{
+    if (temp.Contains(nums[i]))
+    {
+        Console.WriteLine(nums[i] + " is a duplicate");
+    }
+    else
+    {
+        temp.Add(nums[i]);
+    }
+}
+
 
 // 2nd task
-
 static bool checkName()
 {
     string name = "kaman";
@@ -30,10 +30,13 @@ static bool checkName()
         {
             return true;
         }
-
     }
     return false;
 };
-//checkName();
+
 Console.WriteLine(checkName());
+
+//3rd task
+int[] arr = { 1, 2, 3, 4, 5, 6 };
+Console.WriteLine(string.Join("\n", arr));
 
