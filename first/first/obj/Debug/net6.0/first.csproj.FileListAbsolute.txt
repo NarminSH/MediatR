@@ -1,0 +1,15 @@
+/Users/narmin/Projects/first/first/bin/Debug/net6.0/first
+/Users/narmin/Projects/first/first/bin/Debug/net6.0/first.deps.json
+/Users/narmin/Projects/first/first/bin/Debug/net6.0/first.runtimeconfig.json
+/Users/narmin/Projects/first/first/bin/Debug/net6.0/first.dll
+/Users/narmin/Projects/first/first/bin/Debug/net6.0/first.pdb
+/Users/narmin/Projects/first/first/obj/Debug/net6.0/first.csproj.AssemblyReference.cache
+/Users/narmin/Projects/first/first/obj/Debug/net6.0/first.GeneratedMSBuildEditorConfig.editorconfig
+/Users/narmin/Projects/first/first/obj/Debug/net6.0/first.AssemblyInfoInputs.cache
+/Users/narmin/Projects/first/first/obj/Debug/net6.0/first.AssemblyInfo.cs
+/Users/narmin/Projects/first/first/obj/Debug/net6.0/first.csproj.CoreCompileInputs.cache
+/Users/narmin/Projects/first/first/obj/Debug/net6.0/first.dll
+/Users/narmin/Projects/first/first/obj/Debug/net6.0/refint/first.dll
+/Users/narmin/Projects/first/first/obj/Debug/net6.0/first.pdb
+/Users/narmin/Projects/first/first/obj/Debug/net6.0/first.genruntimeconfig.cache
+/Users/narmin/Projects/first/first/obj/Debug/net6.0/ref/first.dll
