@@ -1,0 +1,15 @@
+/Users/narmin/Projects/Core/src/Core.Application/bin/Debug/net6.0/Core.Application.deps.json
+/Users/narmin/Projects/Core/src/Core.Application/bin/Debug/net6.0/Core.Application.dll
+/Users/narmin/Projects/Core/src/Core.Application/bin/Debug/net6.0/Core.Application.pdb
+/Users/narmin/Projects/Core/src/Core.Application/bin/Debug/net6.0/Core.Domain.dll
+/Users/narmin/Projects/Core/src/Core.Application/bin/Debug/net6.0/Core.Domain.pdb
+/Users/narmin/Projects/Core/src/Core.Application/obj/Debug/net6.0/Core.Application.csproj.AssemblyReference.cache
+/Users/narmin/Projects/Core/src/Core.Application/obj/Debug/net6.0/Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/narmin/Projects/Core/src/Core.Application/obj/Debug/net6.0/Core.Application.AssemblyInfoInputs.cache
+/Users/narmin/Projects/Core/src/Core.Application/obj/Debug/net6.0/Core.Application.AssemblyInfo.cs
+/Users/narmin/Projects/Core/src/Core.Application/obj/Debug/net6.0/Core.Application.csproj.CoreCompileInputs.cache
+/Users/narmin/Projects/Core/src/Core.Application/obj/Debug/net6.0/Core.Application.csproj.CopyComplete
+/Users/narmin/Projects/Core/src/Core.Application/obj/Debug/net6.0/Core.Application.dll
+/Users/narmin/Projects/Core/src/Core.Application/obj/Debug/net6.0/refint/Core.Application.dll
+/Users/narmin/Projects/Core/src/Core.Application/obj/Debug/net6.0/Core.Application.pdb
+/Users/narmin/Projects/Core/src/Core.Application/obj/Debug/net6.0/ref/Core.Application.dll

@@ -1,0 +1,64 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Categories\" />
+    <None Remove="Products\" />
+    <None Remove="Common\" />
+    <None Remove="Common\Interfaces\" />
+    <None Remove="Microsoft.EntityFrameworkCore" />
+    <None Remove="Categories\Commands\" />
+    <None Remove="Categories\Queries\" />
+    <None Remove="Categories\Commands\CreateCategory\" />
+    <None Remove="Categories\Commands\DeleteCategory\" />
+    <None Remove="Categories\Commands\UpdateCategory\" />
+    <None Remove="Categories\Queries\GetCategories\" />
+    <None Remove="Categories\Queries\GetCategory\" />
+    <None Remove="FluentValidation.DependencyInjectionExtensions" />
+    <None Remove="MediatR.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="AutoMapper.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="Common\Mappings\" />
+    <None Remove="Products\Commands\" />
+    <None Remove="Products\Queries\" />
+    <None Remove="Products\Commands\CreateProduct\" />
+    <None Remove="Products\Commands\DeleteProduct\" />
+    <None Remove="Products\Commands\UpdateProduct\" />
+    <None Remove="Products\Queries\GetProducts\" />
+    <None Remove="Products\Queries\GetProduct\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Categories\" />
+    <Folder Include="Products\" />
+    <Folder Include="Common\" />
+    <Folder Include="Common\Interfaces\" />
+    <Folder Include="Categories\Commands\" />
+    <Folder Include="Categories\Queries\" />
+    <Folder Include="Categories\Commands\CreateCategory\" />
+    <Folder Include="Categories\Commands\DeleteCategory\" />
+    <Folder Include="Categories\Commands\UpdateCategory\" />
+    <Folder Include="Categories\Queries\GetCategories\" />
+    <Folder Include="Categories\Queries\GetCategory\" />
+    <Folder Include="Common\Mappings\" />
+    <Folder Include="Products\Commands\" />
+    <Folder Include="Products\Queries\" />
+    <Folder Include="Products\Commands\CreateProduct\" />
+    <Folder Include="Products\Commands\DeleteProduct\" />
+    <Folder Include="Products\Commands\UpdateProduct\" />
+    <Folder Include="Products\Queries\GetProducts\" />
+    <Folder Include="Products\Queries\GetProduct\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.9" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.2.2" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core.Domain\Core.Domain.csproj" />
+  </ItemGroup>
+</Project>

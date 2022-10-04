@@ -1,0 +1,45 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Core.Application/Products/Commands/DeleteProduct/DeleteProductCommand.cs">
+    <Files>
+      <File FileName="src/Core.Application/Common/Mappings/MappingProfile.cs" Line="22" Column="1" />
+      <File FileName="src/Core.Application/ConfigurationServices.cs" Line="8" Column="2" />
+      <File FileName="src/Core.Application/Categories/Queries/GetCategories/GetCategoriesQuery.cs" Line="13" Column="1" />
+      <File FileName="src/Core.Application/Categories/Queries/GetCategories/GetCategoriesQueryHandler.cs" Line="28" Column="1" />
+      <File FileName="src/Core.Application/Categories/Queries/GetCategories/CategoryDto.cs" Line="14" Column="1" />
+      <File FileName="src/Core.Application/Categories/Queries/GetCategory/GetCategoryQuery.cs" Line="40" Column="1" />
+      <File FileName="src/Core.Application/Categories/Commands/UpdateCategory/UpdateCategoryCommand.cs" Line="34" Column="19" />
+      <File FileName="src/Core.Application/Categories/Commands/UpdateCategory/UpdateCategoryCommandValidator.cs" Line="1" Column="1" />
+      <File FileName="src/Core.Application/Products/Commands/CreateProduct/CreateProductCommand.cs" Line="10" Column="57" />
+      <File FileName="src/Core.Application/Products/Commands/CreateProduct/CreateProductCommandValidator.cs" Line="27" Column="1" />
+      <File FileName="src/Core.Application/Categories/Commands/CreateCategory/CreateCategoryCommand.cs" Line="13" Column="6" />
+      <File FileName="src/Core.Domain/Entities/Product.cs" Line="11" Column="28" />
+      <File FileName="src/Core.Application/Categories/Commands/CreateCategory/CreateCategoryCommandValidator.cs" Line="26" Column="1" />
+      <File FileName="src/Core.Application/Products/Commands/DeleteProduct/DeleteProductCommand.cs" Line="14" Column="10" />
+      <File FileName="src/Core.Application/Products/Commands/UpdateProduct/UpdateProductCommand.cs" Line="1" Column="1" />
+      <File FileName="src/Core.Application/Categories/Commands/DeleteCategory/DeleteCategoryCommand.cs" Line="10" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Core" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Core.Application" expanded="True" />
+              <Node name="Core.Domain" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

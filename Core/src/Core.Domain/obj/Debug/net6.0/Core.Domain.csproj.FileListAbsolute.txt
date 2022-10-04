@@ -1,0 +1,12 @@
+/Users/narmin/Projects/Core/src/Core.Domain/bin/Debug/net6.0/Core.Domain.deps.json
+/Users/narmin/Projects/Core/src/Core.Domain/bin/Debug/net6.0/Core.Domain.dll
+/Users/narmin/Projects/Core/src/Core.Domain/bin/Debug/net6.0/Core.Domain.pdb
+/Users/narmin/Projects/Core/src/Core.Domain/obj/Debug/net6.0/Core.Domain.csproj.AssemblyReference.cache
+/Users/narmin/Projects/Core/src/Core.Domain/obj/Debug/net6.0/Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/narmin/Projects/Core/src/Core.Domain/obj/Debug/net6.0/Core.Domain.AssemblyInfoInputs.cache
+/Users/narmin/Projects/Core/src/Core.Domain/obj/Debug/net6.0/Core.Domain.AssemblyInfo.cs
+/Users/narmin/Projects/Core/src/Core.Domain/obj/Debug/net6.0/Core.Domain.csproj.CoreCompileInputs.cache
+/Users/narmin/Projects/Core/src/Core.Domain/obj/Debug/net6.0/Core.Domain.dll
+/Users/narmin/Projects/Core/src/Core.Domain/obj/Debug/net6.0/refint/Core.Domain.dll
+/Users/narmin/Projects/Core/src/Core.Domain/obj/Debug/net6.0/Core.Domain.pdb
+/Users/narmin/Projects/Core/src/Core.Domain/obj/Debug/net6.0/ref/Core.Domain.dll
